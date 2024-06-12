@@ -16,4 +16,7 @@ System.out.println(n2+ "n2 is the biggest");
 }
 else
 {
-(System.out.println(n3+ "is the biggest");
+(System.out.println(n3+ "is the biggest"));
+}
+}
+}
